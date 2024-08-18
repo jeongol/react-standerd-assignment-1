@@ -33,3 +33,5 @@ function App() {
 }
 
 export default App
+
+// 말씀하신 내용이 이해가 잘 안되서 해결하지 못했습니다
